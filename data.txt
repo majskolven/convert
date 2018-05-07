@@ -1,0 +1,19 @@
+P|Mats|Franksson
+A|Kvarnvägen 1|Broakulla|37132
+T|0763132830|047140494
+F|Robin Franksson|1986
+A|Ingenjörsgatan 8a|Karlskrona|37132
+T|0763132830
+F|Kim Franksson|1986
+A|Ölandsgatan 8a|Karlskrona|37132
+T|0763132830
+F|Christian Franksson|1982
+A|Skogen 8a|SkogStaden|37100
+T|0763767765|0471-44543
+P|Carl Gustaf|Bernadotte
+T|0768-101801|08-101801
+A|Drottningholms slott|Stockholm|10001
+F|Victoria|1977
+A|Haga Slott|Stockholm|10002
+F|Carl Philip|1979
+T|0768-101802|08-101802
