@@ -1,2 +1,2 @@
-# kör scriptet med ./converter
-# Argument är input fil eller input och outputfil
+ kör scriptet med ./converter
+ Argument är input fil eller input och outputfil
